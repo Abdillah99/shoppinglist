@@ -54,6 +54,8 @@ buck-out/
 
 # Bundle artifact
 *.jsbundle
+#gitinitcore
+node_modules/
 
 # CocoaPods
 /ios/Pods/
